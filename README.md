@@ -1,4 +1,4 @@
-# J.A.R.V.I.S — Voice-Only AI Assistant
+# 🤖 J.A.R.V.I.S — Voice AI Assistant
 > *"Just A Rather Very Intelligent System"*
 
 A full Iron Man–style voice assistant for Windows.  

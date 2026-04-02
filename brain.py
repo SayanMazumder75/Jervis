@@ -52,11 +52,11 @@ class JarvisBrain:
 
         if self.executor.ai_available:
             self.tts.speak_sync(
-                f"J.A.R.V.I.S online. Good day, {self.M}. "
+                f"JARVIS online. Good day, {self.M}. "
                 "AI systems fully operational. Say my name to activate.")
         else:
             self.tts.speak_sync(
-                f"J.A.R.V.I.S online. Good day, {self.M}. "
+                f"JARVIS online. Good day, {self.M}. "
                 "Note: AI key not detected. Running in basic mode. "
                 "Say my name to activate.")
         self._wake_loop()
