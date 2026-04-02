@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# OS files
+.DS_Store
+
+# Face data (important)
+face_data/
+
+# Logs
+*.log

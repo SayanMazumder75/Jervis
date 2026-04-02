@@ -1,0 +1,32 @@
+{
+  "wake_word": "jarvis",
+  "master_name": "Sir",
+  "tts_rate": 160,
+  "tts_volume": 1.0,
+  "tts_voice_index": 0,
+  "energy_threshold": 300,
+  "pause_threshold": 0.6,
+  "listen_timeout": 7,
+  "phrase_time_limit": 10,
+  "idle_strikes_limit": 3,
+  "openai_model": "gpt-3.5-turbo",
+  "openai_max_tokens": 180,
+  "debug_mode": false,
+  "notes_folder": "C:\\Users\\sayan\\Desktop\\JARVIS_Notes",
+  "screenshots_folder": "C:\\Users\\sayan\\Desktop",
+  "app_paths": {
+    "chrome": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "firefox": "C:\\Program Files\\Mozilla Firefox\\firefox.exe",
+    "vscode": "C:\\Users\\{user}\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+    "notepad": "notepad.exe",
+    "explorer": "explorer.exe",
+    "calculator": "calc.exe",
+    "taskmgr": "taskmgr.exe",
+    "paint": "mspaint.exe",
+    "spotify": "C:\\Users\\{user}\\AppData\\Roaming\\Spotify\\Spotify.exe",
+    "word": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE",
+    "excel": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE",
+    "discord": "C:\\Users\\{user}\\AppData\\Local\\Discord\\Update.exe",
+    "steam": "C:\\Program Files (x86)\\Steam\\Steam.exe"
+  }
+}
